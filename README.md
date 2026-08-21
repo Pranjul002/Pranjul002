@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pranjul Khankriyal</h1>
 <h3 align="center">A passionate java Backend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjul2002&label=Profile%20views&color=0e75b6&style=flat" alt="pranjul2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjul002&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjul2002" alt="pranjul2002" /></a> </p>
 
 - 🔭 I’m currently working on **Chat App**
-
 - 🌱 I’m currently learning **Spring Boot**
-
 - 👨‍💻 All of my projects are available at [https://pranjul-portfolio.netlify.app/](https://pranjul-portfolio.netlify.app/)
-
 - 💬 Ask me about **java**
 
 - 📫 How to reach me **shivamkhankriyal07@gmail.com**
